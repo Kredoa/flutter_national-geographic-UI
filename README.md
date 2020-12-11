@@ -1,6 +1,6 @@
 # geo_wild_design
 
-A new Flutter application.
+A mobile app design project inspired by Xitij Thakkar aka @uiuxgram on Instagram
 
 ## Getting Started
 
